@@ -17,7 +17,7 @@ const Hero = (props) => (
           I'm Rohan Desai
         </SectionTitle>
         <SectionText>
-          I love to tinker around new technologies and build fun proje
+          I love to tinker around new technologies and build fun projects
         </SectionText>
       </LeftSection>
     </Section>
